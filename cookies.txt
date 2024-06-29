@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+swagloons.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit#dc#desc=uw2-pub-1_g
+swagloons.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1719647476|Wbb_b8r4vHQ3
+swagloons.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	015b43050a0099de9429f707fd24462af6e55c07e6f19eb051dcfa898d968a2071b2c462ea21afa60ed1971ed9aa0bdfd745332096
+
